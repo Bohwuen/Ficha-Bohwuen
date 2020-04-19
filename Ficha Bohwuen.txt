@@ -14,7 +14,7 @@ Destreza 		⚫⚫⚪⚪⚪
 Percepción 		⚫⚫⚪⚪⚪
 Voluntad 		⚫⚫⚪⚪⚪
 Vigor 			⚫⚪⚪⚪⚪
-Inteligencia 		⚫⚫⚪⚪⚪ (+1 mago)
+Inteligencia 		⚫⚫⚪⚪⚪⚪ (+1 mago)
 Salud 			⚫⚪⚪⚪⚪
 Energía 		⚫⚫⚪⚪⚪
 
